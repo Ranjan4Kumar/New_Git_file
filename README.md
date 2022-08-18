@@ -9,26 +9,26 @@ Git command to clone repo from remote:
 git clone <github url>
   
 Git command to check log:
-git log
+git log:
 Git command for branches:
-git branch - check current branch
-git branch <new branch name> - create new branch
-git checkout <branch name> - move to another/new branch
-git checkout -b < new branch name> - create a new branch and move to it
-Git command to update local with remote
-git pull
-git pull <branch name>
-git fetch
-Git commands to push to remote repo
-git add .
+git branch - check current branch:
+git branch <new branch name> - create new branch:
+git checkout <branch name> - move to another/new branch:
+git checkout -b < new branch name> - create a new branch and move to it:
+Git command to update local with remote:
+git pull:
+git pull <branch name>:
+git fetch:
+Git commands to push to remote repo:
+git add . :
 git status
-git commit -m "<message you want to log>"
-git push origin <branch name>
+git commit -m "<message you want to log>" :
+git push origin <branch name> :
 Git commands to set email and name:
-git config --global user.name <username>
-git config --global user.email <email>
+git config --global user.name <username> :
+git config --global user.email <email> :
 Git command to set remote:
-git remote add <github url> (edited) 
+git remote add <github url> (edited)  :
 :white_check_mark:
 13
 
