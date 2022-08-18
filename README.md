@@ -1,4 +1,8 @@
 # New_Git_file
+
+# Screenshot
+![GitBasiccommands](https://user-images.githubusercontent.com/106957343/185361665-dccff2e6-dbcb-43db-9934-04091d1e6a6a.png)
+
 This file is only for practice purpose not for doccumentation purpose.
 Git command to clone repo from remote:
 
