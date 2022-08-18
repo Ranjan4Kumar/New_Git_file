@@ -3,33 +3,33 @@
 # Screenshot
 ![GitBasiccommands](https://user-images.githubusercontent.com/106957343/185361665-dccff2e6-dbcb-43db-9934-04091d1e6a6a.png)
 
-This file is only for practice purpose not for doccumentation purpose.
+This file is only for practice purpose not for doccumentation purpose. <br/>
 Git command to clone repo from remote:
 
-git clone <github url>
+git clone <github url> <br/>
   
-Git command to check log:
-git log:
-Git command for branches:
-git branch - check current branch:
-git branch <new branch name> - create new branch:
-git checkout <branch name> - move to another/new branch:
-git checkout -b < new branch name> - create a new branch and move to it:
-Git command to update local with remote:
-git pull:
-git pull <branch name>:
-git fetch:
-Git commands to push to remote repo:
-git add . :
-git status
-git commit -m "<message you want to log>" :
-git push origin <branch name> :
-Git commands to set email and name:
-git config --global user.name <username> :
-git config --global user.email <email> :
-Git command to set remote:
-git remote add <github url> (edited)  :
-:white_check_mark:
+Git command to check log: <br/>
+git log: <br/>
+Git command for branches: <br/>
+git branch - check current branch: <br/>
+git branch <new branch name> - create new branch: <br/>
+git checkout <branch name> - move to another/new branch: <br/>
+git checkout -b < new branch name> - create a new branch and move to it: <br/>
+Git command to update local with remote:  <br/>
+git pull: <br/>
+git pull <branch name>: <br/>
+git fetch: <br/>
+Git commands to push to remote repo: <br/>
+git add . : <br/>
+git status <br/>
+git commit -m "<message you want to log>" : <br/>
+git push origin <branch name> : <br/>
+Git commands to set email and name: <br/>
+git config --global user.name <username> : <br/>
+git config --global user.email <email> :<br/> 
+Git command to set remote:  <br/>
+git remote add <github url> (edited)  : <br/>
+:white_check_mark: <br/>
 13
 
 New
