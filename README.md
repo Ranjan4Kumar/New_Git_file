@@ -39,29 +39,29 @@ New
 # Windows
   
   
-Hi team, with the new Windows 11 update, some PCs might not allow you to run django commands or activate environment.
-Kindly follow the steps below to fix the issue:
-Create a new Directory.
-python3 -m venv env
+Hi team, with the new Windows 11 update, some PCs might not allow you to run django commands or activate environment. <br/>
+Kindly follow the steps below to fix the issue: <br/>
+Create a new Directory. <br/>
+python3 -m venv env <br/>
   
-Open another PowerShell with runAsAdministrator.
+Open another PowerShell with runAsAdministrator. <br/>
   
-run the command: set-ExecutionPolicy unrestricted  Please Note: Student has to type the command, you will not have access to type.
+run the command: set-ExecutionPolicy unrestricted  Please Note: Student has to type the command, you will not have access to type. <br/>
  Close the admin Powershell
   
-Activate environment using: ./env/Scripts/activate
+Activate environment using: ./env/Scripts/activate <br/>
+   
+Install Django: pip3 install django <br/>
   
-Install Django: pip3 install django
-  
-Start Django project: python3 -m django startproject <project-name>
+Start Django project: python3 -m django startproject <project-name> <br/>
 Continue with the Video
   
-Please Instruct the student to:
-Run windows powershell or VSCode. Not command promt as it will not allow to run unix commands
+Please Instruct the student to: <br/>
+Run windows powershell or VSCode. Not command promt as it will not allow to run unix commands<br/>
   
-Activate environment everytime he/she runs the project: ./env/Scripts/activate
+Activate environment everytime he/she runs the project: ./env/Scripts/activate<br/>
   
-To deactivate: deactivate
+To deactivate: deactivate<br/>
 CC: 
 @Rajeswari
 :white_check_mark:
