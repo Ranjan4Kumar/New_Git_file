@@ -36,7 +36,7 @@ New
 
 
 
- #Windows
+# Windows
   
   
 Hi team, with the new Windows 11 update, some PCs might not allow you to run django commands or activate environment.
